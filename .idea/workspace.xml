@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RgTe31pPFenMuFFg6PrL1Um9Ym" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,10 +54,15 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="506" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1604487527978">
+    <state x="506" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1605683799947">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1603205041344" />
+    <state x="506" y="254" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.5.1920.1040@0.0.1920.1040" timestamp="1605683799947" />
     <state x="506" y="254" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604487527978" />
+    <state x="-1438" y="5" width="1454" height="618" maximized="true" key="dock-window-1" timestamp="1605683889693">
+      <screen x="-1920" y="5" width="1920" height="1040" />
+    </state>
+    <state x="-1438" y="5" width="1454" height="618" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.5.1920.1040@0.0.1920.1040" timestamp="1605683889693" />
   </component>
 </project>
