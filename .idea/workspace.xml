@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b3f362-abc0-4d03-b88c-58bd4cbac914" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,9 +63,9 @@
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1603205041344" />
     <state x="506" y="254" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.5.1920.1040@0.0.1920.1040" timestamp="1605688249663" />
     <state x="506" y="254" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604487527978" />
-    <state x="-1438" y="5" width="1454" height="618" maximized="true" key="dock-window-1" timestamp="1605689725823">
+    <state x="-1486" y="330" width="1454" height="618" maximized="true" key="dock-window-1" timestamp="1605707234405">
       <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state x="-1438" y="5" width="1454" height="618" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.5.1920.1040@0.0.1920.1040" timestamp="1605689725823" />
+    <state x="-1486" y="330" width="1454" height="618" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.5.1920.1040@0.0.1920.1040" timestamp="1605707234405" />
   </component>
 </project>
