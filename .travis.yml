@@ -1,16 +1,6 @@
 language: python
 python:
-  - 3.7
-  
-sudo: required
-dist: trusty
-addons:
-  apt:
-    sources:
-      - google-chrome
-    packages:
-      - google-chrome-stable
-      
+  - 3.9.0
  # command to install dependencies
 install:
   - pip3 install -r requirements.txt
